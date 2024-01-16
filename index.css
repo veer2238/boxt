@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightsalmon;
+    padding: 20px 10px;
+
+  
+
+    
+
+    .Box1{
+        /* text-decoration-style: solid;  */
+        border: solid 3px black;
+        background-color: brown;
+        height: 200px;
+        width: 200px;
+        /* margin: 0; */
+        /* padding: 0; */
+        /* align-self: center; */
+        /* justify-self: center; */
+        display: flex;
+        justify-content: center;
+       align-items: center;
+
+
+    }
+    .Box2{
+        text-align: center;
+        border: solid 3px black;
+        background-color: rgb(150, 150, 40);
+        height: 200px;
+        width: 200px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+       align-items: center;
+        
+        
+    }
+    .Box3{
+        text-align: center;
+        border: solid 3px black;
+        background-color: green;
+        height: 200px;
+        width: 200px;
+        display: flex;
+        justify-content: center;
+       align-items: center;
+    }
+    .Box4{
+        text-align: center;
+        border: solid 3px black;
+        background-color: brown;
+        height: 200px;
+        width: 200px;
+        display: flex;
+        justify-content: center;
+       align-items: center;
+}
+}
